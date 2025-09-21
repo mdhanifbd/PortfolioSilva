@@ -1,0 +1,767 @@
+
+@media (min-width: 576px) and (max-width: 767.98px){
+  #nav_bar{
+    position: absolute !important;
+    height: 90px !important;
+    padding-top: 0 !important;
+	}
+	#nav_bar button{
+    border: 2px solid #ffffff !important;
+  }
+	#nav_bar i{
+		color: white !important;
+		font-size: 30px;
+	}
+	#nav_bar ul{
+		text-align: center !important;
+	}
+	#nav_bar ul li a{
+  line-height: 30px !important;
+  padding-left: 20px !important;
+}
+.navAnimation{
+  display: none;
+}
+.banner_left h2{
+  font-size: 25px !important;
+  padding-top: 180px !important;
+	text-align: center;
+}
+.banner_left h1{
+  font-size: 70px !important;
+	padding-top: 0px !important;
+	text-align: center;
+}
+.banner_left h1 br{
+	display: none;
+}
+.banner_left h3{
+  font-size: 30px !important;
+  padding-left: 60px;
+  padding-top: 3px !important;
+}
+.banner_left h3 span{
+  font-size: 35px !important;
+}
+.banner_btn{
+  text-align: center;
+}
+.banner_btn a{
+  font-size: 20px !important;
+  padding: 10px 30px !important;
+}
+.ban_img img{
+	top: 26px !important;
+	left: -80px !important;
+  height: 410px !important;
+  width: 550px !important;
+}
+.ban_cir{
+  left: 95px !important;
+  top: 130px !important;
+}
+.banner_circle{
+  height: 230px !important;
+  width: 230px !important;
+}
+.ban_icon ul{
+  padding-top: 80px !important;
+  padding-bottom: 100px;
+  padding-left: 0 !important;
+}
+.ban_obj{
+  top: -40px !important;
+  left: 10% !important;
+}
+.angle_arrow i{
+  display: none;
+}
+.about_up h2{
+  text-align: center;
+}
+.about_up h4{
+  font-size: 35px !important;
+  text-align: center;
+}
+.about_left h2{
+  font-size: 20px !important;
+  padding-top: 80px !important;
+  text-align: center;
+  padding-bottom: 0px !important;
+}
+.about_left p{
+  font-size: 18px !important;
+  line-height: 33px !important;
+  padding: 30px 30px !important;
+  padding-bottom: 40px !important;
+  text-align: center;
+}
+.about_left_btn{
+  padding-bottom: 80px !important;
+  text-align: center;
+}
+.about_left_btn a{
+  font-size: 20px !important;
+  padding: 18px 38px !important;
+}
+.about_right h2{
+  font-size: 20px !important;
+  padding-top: 80px !important;
+  padding-bottom: 30px !important;
+  text-align: center;
+}
+.about_right_in{
+  display: flex;
+}
+.about_right_in_left{
+  width: 150px !important;
+}
+.about_right_in_left h3{
+  font-size: 16px !important;
+}
+.about_right_in_right p{
+  font-size: 16px !important;
+}
+.about_right_skill{
+  height: 80px;
+  width: 500px !important;
+}
+.bar_one{
+  width: 450px !important;
+}
+.bar_two{
+  width: 500px !important;
+}
+.bar_onea{
+  width: 480px !important;
+}
+.bar_twoa{
+  width: 500px !important;
+}
+.bar_oneb{
+  width: 350px !important;
+}
+.bar_twob{
+  width: 500px !important;
+}
+.about_right_skill_left h3{
+  font-size: 18px !important;
+}
+.about_right_skill_right p{
+  font-size: 18px !important;
+}
+.about_right_in_right p span{
+  padding-right: 18px !important;
+  padding-left: 150px !important;
+}
+.pad_ing{
+  padding-bottom: 80px !important;
+}
+.service_left_left img{
+  padding-right: 30px !important;
+}
+.service_left {
+	height: 290px !important;
+}
+.service_left_right h2{
+  font-size: 30px !important;
+}
+.service_left_right p {
+	font-size: 20px !important;
+	padding-right: 40px;
+}
+.pd_ing{
+  padding-bottom: 60px;
+}
+.port_left h4{
+  font-size: 12px !important;
+  padding-top: 30px !important;
+}
+.port_middle h2{
+  font-size: 14px !important;
+  padding-top: 30px !important;
+}
+.hov_main{
+  height: 100px !important;
+}
+.port_icon{
+  padding-top: 10px !important;
+}
+.port_icon i{
+  font-size: 20px !important;
+  padding: 16px 18px !important;
+  margin-left: 0 !important;
+}
+.pb_i{
+  padding-bottom: 60px !important;
+}
+.pricing_up h4{
+  font-size: 25px !important;
+  padding-top: 80px !important;
+}
+.pricing_up h2{
+  font-size: 40px !important;
+}
+.contact_left{
+  padding-bottom: 30px !important;
+}
+.contact_location_icon i{
+  font-size: 20px !important;
+  padding: 28px 30px !important;
+}
+.contact_location_txt h2{
+  font-size: 30px !important;
+}
+.contact_location_txt p{
+  font-size: 18px !important;
+}
+
+.inp_one input{
+  height: 60px !important;
+  width: 100% !important;
+  font-size: 18px !important;
+}
+#txtera{
+  width: 100% !important;
+  height: 150px !important;
+  font-size: 18px !important;
+}
+.contact_btn{
+  font-size: 18px !important;
+  padding: 20px 40px !important;
+  margin-bottom: 90px !important;
+}
+.footer_img img{
+  margin-top: 10px !important;
+}
+.footer_txt h2{
+  padding-top: 30px !important;
+  padding-bottom: 0px !important;
+}
+.footer_left_p p{
+  font-size: 18px !important;
+  padding-bottom: 100px !important;
+}
+.footer_right{
+  display: none;
+}
+.ban_icona{
+  display: none;
+}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px){
+  #nav_bar{
+    position: absolute !important;
+    height: 90px !important;
+    padding-top: 0 !important;
+	}
+	#nav_bar button{
+    border: 2px solid #ffffff !important;
+  }
+	#nav_bar i{
+		color: white !important;
+		font-size: 30px;
+	}
+	#nav_bar ul{
+		text-align: center !important;
+	}
+	#nav_bar ul li a{
+  line-height: 30px !important;
+  padding-left: 20px !important;
+}
+.navAnimation{
+  display: none;
+}
+.banner_left h2{
+  font-size: 27px !important;
+  padding-top: 180px !important;
+	text-align: center;
+}
+.banner_left h1{
+  font-size: 80px !important;
+	padding-top: 0px !important;
+	text-align: center;
+}
+.banner_left h1 br{
+	display: none;
+}
+.banner_left h3{
+  font-size: 32px !important;
+  padding-left: 120px;
+  padding-top: 3px !important;
+}
+.banner_left h3 span{
+  font-size: 40px !important;
+}
+.banner_btn{
+  text-align: center;
+}
+.banner_btn a{
+  font-size: 22px !important;
+  padding: 15px 40px !important;
+}
+.ban_img img{
+	top: 26px !important;
+	left: -50px !important;
+  height: 450px !important;
+  width: 590px !important;
+}
+.ban_cir{
+  left: 125px !important;
+  top: 140px !important;
+}
+.banner_circle{
+  height: 255px !important;
+  width: 255px !important;
+}
+.ban_icon ul{
+  padding-top: 80px !important;
+  padding-bottom: 140px;
+  padding-left: 0 !important;
+}
+.ban_obj{
+  top: -40px !important;
+  left: 10% !important;
+}
+.angle_arrow i{
+  display: none;
+}
+.about_up h2{
+  text-align: center;
+}
+.about_up h4{
+  font-size: 40px !important;
+  text-align: center;
+}
+.about_left h2{
+  font-size: 20px !important;
+  padding-top: 80px !important;
+  text-align: center;
+  padding-bottom: 30px !important;
+}
+.about_left p{
+  font-size: 18px !important;
+  line-height: 33px !important;
+  padding: 0px 60px !important;
+  padding-bottom: 40px !important;
+  text-align: center;
+}
+.about_left_btn{
+  padding-bottom: 80px !important;
+  text-align: center;
+}
+.about_left_btn a{
+  font-size: 20px !important;
+  padding: 18px 38px !important;
+}
+.about_right h2{
+  font-size: 20px !important;
+  padding-top: 80px !important;
+  padding-bottom: 30px !important;
+  text-align: center;
+}
+.about_right_in{
+  display: flex;
+}
+.about_right_in_left{
+  width: 200px !important;
+}
+.about_right_in_left h3{
+  font-size: 20px !important;
+}
+.about_right_in_right p{
+  font-size: 20px !important;
+}
+.about_right_skill{
+  height: 80px;
+  width: 550px !important;
+}
+.bar_one{
+  width: 500px !important;
+}
+.bar_two{
+  width: 550px !important;
+}
+.bar_onea{
+  width: 530px !important;
+}
+.bar_twoa{
+  width: 550px !important;
+}
+.bar_oneb{
+  width: 400px !important;
+}
+.bar_twob{
+  width: 550px !important;
+}
+.about_right_skill_left h3{
+  font-size: 20px !important;
+}
+.about_right_skill_right p{
+  font-size: 20px !important;
+}
+.about_right_in_right p span{
+  padding-right: 20px !important;
+  padding-left: 240px !important;
+}
+.pad_ing{
+  padding-bottom: 80px !important;
+}
+.service_left_left img{
+  padding-right: 40px !important;
+}
+.service_left_right h2{
+  font-size: 42px !important;
+}
+.service_left {
+	height: 290px !important;
+}
+.service_left_right p {
+	font-size: 20px !important;
+	padding-right: 120px !important;
+}
+.pd_ing{
+  padding-bottom: 60px;
+}
+.port_left h4{
+  font-size: 15px !important;
+  padding-top: 35px !important;
+}
+.port_middle h2{
+  font-size: 18px !important;
+  padding-top: 35px !important;
+}
+.port_right img {
+	margin-bottom: 0px !important;
+  margin-top: -8px !important;
+}
+.hov_main{
+  height: 120px !important;
+}
+.port_icon{
+  padding-top: 25px !important;
+}
+.port_icon i{
+  font-size: 25px !important;
+  padding: 20px 22px !important;
+  margin-left: 0 !important;
+}
+.pb_i{
+  padding-bottom: 60px !important;
+}
+.pricing_up h4{
+  font-size: 25px !important;
+  padding-top: 80px !important;
+}
+.pricing_up h2{
+  font-size: 40px !important;
+}
+.contact_left{
+  padding-bottom: 30px !important;
+}
+.contact_location_icon i{
+  font-size: 25px !important;
+  padding: 35px 37px !important;
+}
+.contact_location_txt h2{
+  font-size: 35px !important;
+  padding-left: 10px;
+}
+.contact_location_txt p{
+  font-size: 18px !important;
+  padding-left: 10px;
+}
+.pb_hh{
+  padding-bottom: 50px;
+}
+.inp_one input{
+  height: 60px !important;
+  width: 100% !important;
+  font-size: 18px !important;
+}
+#txtera{
+  width: 100% !important;
+  height: 150px !important;
+  font-size: 18px !important;
+}
+.contact_btn{
+  font-size: 18px !important;
+  padding: 20px 40px !important;
+  margin-bottom: 90px !important;
+}
+.footer_img img{
+  margin-top: 10px !important;
+}
+.footer_txt h2{
+  padding-top: 30px !important;
+  padding-bottom: 0px !important;
+}
+.footer_left_p p{
+  font-size: 18px !important;
+  padding-bottom: 30px !important;
+}
+.footer_right{
+  display: none;
+}
+.ban_icona{
+  display: none;
+}
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+#nav_bar ul li a{
+  padding-left: 20px !important;
+  font-size: 18px !important;
+}
+.banner_left h2{
+  font-size: 30px !important;
+}
+.banner_left h1{
+  font-size: 80px !important;
+  line-height: 87px !important;
+  padding-top: 10px !important;
+}
+.banner_left h3{
+  font-size: 25px !important;
+}
+.banner_left h3 span{
+  font-size: 30px !important;
+}
+.banner_btn{
+  margin-bottom: 80px !important;
+  margin-top: 40px !important;
+}
+.banner_btn a{
+  font-size: 20px !important;
+}
+.ban_img img{
+  height: 470px !important;
+  width: 600px !important;
+  right: -18px !important;
+}
+.ban_cir{
+  position: absolute;
+  left: -20px !important;
+  top: 43% !important;
+}
+.banner_circle{
+  height: 250px !important;
+  width: 250px !important;
+}
+.ban_icon ul{
+  padding-left: 0 !important;
+}
+.ban_icon ul li{
+  padding-right: 0 !important;
+}
+.ban_icon ul li i{
+  width: 45px !important;
+  height: 40px !important;
+}
+.ban_obj{
+  position: absolute;
+  top: 26% !important;
+}
+
+.angle_arrow i{
+  font-size: 30px !important;
+  right: 20px !important;
+  bottom: 20px !important;
+}
+.about_left p{
+  padding-right: 40px !important;
+  padding-bottom: 40px !important;
+}
+.about_left_btn a{
+  font-size: 20px !important;
+  padding: 20px 38px !important;
+}
+.about_right_in_left{
+  width: 130px !important;
+}
+.about_right_in_left h3{
+  font-size: 16px !important;
+}
+.about_right_in_right p{
+  font-size: 16px !important;
+}
+
+
+.about_right_skill{
+  height: 80px;
+  width: 400px !important;
+}
+.bar_one{
+  width: 300px !important;
+}
+.bar_two{
+  width: 400px !important;
+}
+.bar_onea{
+  width: 380px !important;
+}
+.bar_twoa{
+  width: 400px !important;
+}
+.bar_oneb{
+  width: 250px !important;
+}
+.bar_twob{
+  width: 400px !important;
+}
+.service_left{
+  height: 250px !important;
+}
+.service_left_left img{
+  padding-top: 45px !important;
+  padding-right: 30px !important;
+}
+.service_left_right h2{
+  font-size: 25px !important;
+  padding-top: 45px !important;
+}
+.service_left_right p{
+  font-size: 18px !important;
+}
+}
+
+
+@media (min-width: 1200px) and (max-width: 1399.98px){
+#nav_bar ul li a{
+  padding-left: 30px !important;
+  font-size: 20px !important;
+}
+.banner_left h2{
+  font-size: 35px !important;
+}
+.banner_left h1{
+  font-size: 90px !important;
+  line-height: 87px !important;
+  padding-top: 10px !important;
+}
+.banner_left h3{
+  font-size: 25px !important;
+}
+.banner_left h3 span{
+  font-size: 35px !important;
+}
+.banner_btn{
+  margin-bottom: 80px !important;
+  margin-top: 45px !important;
+}
+.banner_btn a{
+  font-size: 22px !important;
+}
+.ban_img img{
+  height: 500px !important;
+  width: 630px !important;
+  right: -1px !important;
+}
+.ban_cir{
+  position: absolute;
+  left: 10px !important;
+  top: 43% !important;
+}
+.banner_circle{
+  height: 270px !important;
+  width: 270px !important;
+}
+.ban_icon ul{
+  padding-left: 0 !important;
+}
+.ban_icon ul li{
+  padding-right: 0 !important;
+}
+.ban_icon ul li i{
+  width: 60px !important;
+  height: 55px !important;
+}
+.ban_obj{
+  position: absolute;
+  top: 26% !important;
+}
+
+.angle_arrow i{
+  font-size: 30px !important;
+  right: 20px !important;
+  bottom: 20px !important;
+}
+.about_left p{
+  padding-right: 40px !important;
+  padding-bottom: 40px !important;
+}
+.about_left_btn a{
+  font-size: 20px !important;
+  padding: 20px 38px !important;
+}
+.about_right_in_left{
+  width: 130px !important;
+}
+.about_right_in_left h3{
+  font-size: 16px !important;
+}
+.about_right_in_right p{
+  font-size: 16px !important;
+}
+
+
+.about_right_skill{
+  height: 80px;
+  width: 450px !important;
+}
+.bar_one{
+  width: 350px !important;
+}
+.bar_two{
+  width: 450px !important;
+}
+.bar_onea{
+  width: 430px !important;
+}
+.bar_twoa{
+  width: 450px !important;
+}
+.bar_oneb{
+  width: 300px !important;
+}
+.bar_twob{
+  width: 450px !important;
+}
+.service_left{
+  height: 300px !important;
+}
+.service_left_left img{
+  padding-top: 65px !important;
+  padding-right: 40px !important;
+}
+.service_left_right h2{
+  font-size: 30px !important;
+  padding-top: 65px !important;
+}
+.service_left_right p{
+  font-size: 20px !important;
+}
+
+.port_left h4{
+  color: rgba(33, 37, 41, 0.522);
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  padding-top: 60px;
+}
+.port_middle h2{
+  color: rgb(46, 46, 55);
+  font-family: "Open Sans", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  padding-top: 60px;
+}
+.port_right img{
+  margin-bottom: 30px !important;
+}
+.hov_main{
+  height: 210px !important;
+}
+}
